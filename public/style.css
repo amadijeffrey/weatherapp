@@ -1,0 +1,31 @@
+.search-bar{
+    width:55%;
+   margin: 20px 0px;
+   height: 35px
+
+}
+#country{
+    width:15%;
+    margin-left: 10%;
+    height: 35px
+}
+.submit{
+    height: 35px
+
+}
+.container{
+    padding-left: 0px;
+}
+
+svg{
+    height:130px;  
+    width:270px
+}
+td{
+    vertical-align: middle;
+    text-align: center;
+}
+td:first-of-type> div{
+    height:130px;  
+    width:270px
+}
